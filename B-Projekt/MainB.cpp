@@ -1,8 +1,8 @@
 #include <iostream>
 #include "Rechner.h";
-//#include "Hilfsrechner.h";
-//#include "Rechner.cpp";
-//#include "Hilfsrechner.cpp";
+#include "Hilfsrechner.h";
+#include "Rechner.cpp";
+#include "Hilfsrechner.cpp";
 
 
 int main()
