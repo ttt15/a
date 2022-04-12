@@ -1,6 +1,9 @@
 #pragma once
+#include "Hilfsrechner.h"
+
 class Hilfsrechner
 {
 public:
-	int hilfsum();
+	virtual int hilfsum();
+
 };
